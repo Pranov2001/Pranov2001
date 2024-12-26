@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranov Singh</h1>
-<h3 align="center">A passionate DevOps Engineer, frontend backend developer from India</h3>
+<h3 align="center">A passionate Java DevOps Engineer, frontend backend developer from India</h3>
 
 - 🔭 I’m currently working on [Informatrix limited as a Intern](https://www.informatrixit.com/infrastructure-management/)
 
-- 🌱 I’m currently learning **Go language**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranov2001/Project-Links](https://github.com/Pranov2001/Project-Links)
 
